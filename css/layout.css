@@ -58,6 +58,11 @@ section.about-us h4 {
 section.about-us p {
   color: #87929d;
   text-align: center;
+  margin: 0;
+}
+section.about-us a,
+section.about-us a:visited {
+  color: #DD2A13;
 }
 .picture-profiles {
   margin-top: -40px;
@@ -94,7 +99,7 @@ iframe {
   margin-left: 70px;
 }
 a.red-button {
-  width: 420px;
+  width: 480px;
   text-decoration:none;
   font-size:22px;
   text-align:center;
