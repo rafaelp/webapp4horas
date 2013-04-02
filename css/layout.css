@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header#who {
+  height: 390px;
+  background: #23272A;
+  border-top: 5px solid #DD2A13;
+}
+
+
+hgroup {
+  margin-top: 40px;
+}
+hgroup h1, h2{
+  margin: 0;
+  padding: 0;
+  color: white;
+  text-align: center;
+  font-family: 'Gravitas One', cursive;
+  font-size: 2em;
+  line-height: 1.6em;
+  font-family: 'Wendy One', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  color: #e1f2ff;
+  font-feature-settings: 'liga';
+  -webkit-font-feature-settings: 'liga';
+  -moz-font-feature-settings: 'liga';
+  -o-font-feature-settings: 'liga';
+  letter-spacing: 0.06em;
+  line-height: 1.8em;
+  margin-bottom: 40px;
+}
+
+hgroup {
+  text-align: center;
+}
+
+
+section.about-us {
+  height: 160px;
+  background: #f4f7fa;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+
+section.about-us h4 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight:700;
+  font-size: 1.3em;
+}
+
+
+section.about-us p {
+  color: #87929d;
+  text-align: center;
+}
+.picture-profiles {
+  margin-top: -40px;
+}
+
+
+.picture-profiles img {
+  width: 130px;
+  border-radius: 6px;
+  border: 2px solid #f4f7fa;
+  margin: 0 auto;
+  margin-left: 40px;
+}
+
+
+section.video {
+  height: auto;
+  background: #f9fafb;
+  padding: 30px 0 50px;
+  border-top: 1px solid #f3f5f6;
+  border-bottom: 1px solid #f3f5f6;
+}
+section.video h3 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  margin-bottom: 60px;
+  color: #87929d;
+  color: #23272A;
+}
+
+iframe {
+  margin: 0 auto;
+  margin-left: 70px;
+}
+a.red-button {
+  width: 420px;
+  text-decoration:none;
+  font-size:22px;
+  text-align:center;
+  display:block;
+  margin:0 auto;
+  z-index:9999;
+  background: #DD2A13;
+  border-radius: 6px;
+  padding: 20px 0;
+  color: #fff;
+  font-family: 'Merriweather', serif;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.80);
+}
+
+
+section.features {
+  height: auto;
+  padding: 40px 0;
+}
+
+section.features h3 {
+  text-align: center;
+}
+
+
+section.features h4 {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  margin-bottom: 60px;
+  color: #87929d;
+  color: #6e7276;
+  font-size: 1.4em;
+  line-height: 1.8em;
+}
+
+
+footer {
+  height: 100px;
+  background: #fff;
+}
